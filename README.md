@@ -124,14 +124,6 @@ Sharing is caring, plagiarism is… less charming.
 
 ---
 
-Thanks for stopping by. 
-
-If this repo made your day 0.5% better — my job here is done 😎
-
-Feel free to drop a star ⭐ and send bug-free vibes 🚀
-
-QA out.  
-
 Stay safe out there, and never stop supporting Ukraine ![UA](https://flagcdn.com/w20/ua.png)  
 
 In code we trust *(or not)*. In peace we believe.
