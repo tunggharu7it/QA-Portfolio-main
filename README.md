@@ -112,18 +112,4 @@
 
 ---
 
-## 🧾 License
 
-This repository is licensed under the [MIT License](LICENSE).  
-
-You are free to use, modify, and distribute the materials **with proper attribution** to the author (yep, that fabulous individual is me! 😎).
-
-GitHub profile for attribution: [Ukrainian QA dude - Ievgen (Eugene) Guk](https://github.com/eGoOki).
-
-Sharing is caring, plagiarism is… less charming.
-
----
-
-Stay safe out there, and never stop supporting Ukraine ![UA](https://flagcdn.com/w20/ua.png)  
-
-In code we trust *(or not)*. In peace we believe.
