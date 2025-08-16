@@ -1,29 +1,3 @@
-# 🕵️‍♂️ Ievgen Guk – Manual QA Engineer Portfolio
-
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/QA--Portfolio-Manual--Testing-blue.svg" />
-  <img src="https://img.shields.io/badge/Experience-17+--years-green.svg" />
-  <img src="https://img.shields.io/badge/TechStack-Mobile%20%7C%20Web%20%7C%20API-yellow.svg" />
-  <img src="https://img.shields.io/badge/Location-Košice%2C%20Slovakia-lightgrey.svg" />
-</p>
-
-<p align="center">
-  🚀 <a href="#📁-repository-structure">Repository Overview</a> • 
-  💬 <a href="#👤-about-me">About Me</a> • 
-  🧰 <a href="#🧰-skills--tools">Skills</a> • 
-  🧪 <a href="#📁-explore-qa-artifacts">Explore Test Sections</a> • 
-  🎓 <a href="#🎓-selected-certifications">Certifications</a>
-</p>
-
---- -->
-
-Hi there! 👋 I'm **Ievgen Guk** *(pronounced like "Yevhen", also known as Eugene)* - a Lead/Senior Manual QA Engineer with 17+ years of hands-on experience in software testing, including mobile (iOS/Android), web, and desktop platforms.
-
-This repository showcases sample materials that reflect my approach to testing, reporting, and QA strategy.  
-
-🔒 *All content is fictional or generalized to respect client confidentiality (NDAs).*
-
----
 
 ## 🧰 Skills & Tools
 
